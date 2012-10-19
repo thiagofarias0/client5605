@@ -6,6 +6,7 @@ public class Principal {
 	public static void main(String[] args) {
 	InterfaceComUsuario iu = new InterfaceComUsuario();
 	iu.interaja();
+	System.out.println("oi");
 	}
 	//http://www.javasimples.com.br/twitter-2/criando-um-cliente-para-twitter-parte-2
 
